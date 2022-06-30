@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "email": "brianmuriuki@mail.com",
+      "password": "123456",
+      "fName": "Brian",
+      "sName": "Muriuki",
+      "city": "Nairobi",
+      "age": "22",
+      "phone": "0755639087",
+      "id": 2
+    },
+    {
+      "email": "brianmuriuki@mail.com",
+      "password": "123456",
+      "fName": "Talisa",
+      "sName": "Neema",
+      "city": "Kitengela",
+      "age": "6",
+      "phone": "084395460",
+      "id": 3
+    },
+    {
+      "email": "brianmuriuki@mail.com",
+      "password": "123456",
+      "fName": "",
+      "sName": "",
+      "city": "",
+      "age": "",
+      "phone": "",
+      "id": 4
+    },
+    {
+      "email": "brianmuriuki@mail.com",
+      "password": "123456",
+      "fName": "Brian",
+      "sName": "Muriuki",
+      "city": "Nairobi",
+      "age": "22",
+      "phone": "246354768",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
